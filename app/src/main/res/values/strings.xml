@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ProjectWithPictures</string>
+    <string name="app_name" translatable="false">ProjectWithPictures</string>
+    <string name="pictures" translatable="false">Picture</string>
 </resources>
